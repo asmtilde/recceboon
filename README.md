@@ -4,7 +4,7 @@
 
 ### ~ ; ` FUNDING ` ; ~
 
-### ~; ` SOCIALS ` ;~
+### ~ ; ` SOCIALS ` ; ~
 
 ## ~ ; ` GOALS ` ; ~
 
