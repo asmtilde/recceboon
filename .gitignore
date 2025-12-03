@@ -1,0 +1,39 @@
+# ;; ~: recceboon gitignore file :~ ;; #
+# Ignore build artifacts
+Build/
+
+# Ignore object files
+*.o
+*.obj
+*.class
+*.d
+*.out
+
+# Ignore log files
+*.log
+*.tmp
+
+# Ignore OS generated files
+.DS_Store
+Thumbs.db
+
+# Ignore IDE specific files
+.vscode/
+.idea/
+*.suo
+*.user
+*.swp
+
+# Environment files
+.env
+*.env.local
+*.env
+
+# Server database files
+*.db
+
+# Executable
+recceboon
+
+# Node Modules
+node_modules/
