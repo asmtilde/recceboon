@@ -3,7 +3,7 @@
 
 #include <cmath>
 
-namespace asmtilde::recceboon::core::math // Core Math Utilities, Constants, and Types for RecceBoon
+namespace asmtilde::recceboon::core::math // @brief Core Math Utilities, Constants, and Types for RecceBoon
 {
     using experience_points = double; // @brief Type alias for experience points
     using dimension2d = struct { int width; int height; };  // @brief 2D dimension struct
